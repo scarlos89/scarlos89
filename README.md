@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @scarlos89. I 'm 32 years old and i live in Florianópolis, Brazil.
+- 👋 Hi, I’m @scarlos89. I 'm 33 years old and i live in Florianópolis, Brazil.
 - 👀 I’m interested in start my carrer as a dev.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Java and Javascript.
 - 📫 How to reach me carlos.frleal@gmail.com
 
 <!---
